@@ -122,3 +122,5 @@ Task{id=1, description='Finish homework', status='in-progress', createdAt=2025-0
 ## Contributing
 
 Feel free to fork the repository, make changes, and cr
+
+project uri - https://github.com/MuraliPathivada/MyTaskManagerCLI
